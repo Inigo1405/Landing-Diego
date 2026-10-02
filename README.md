@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal
 
+# ¡DIEGO PON EN PRIVADO EL EMPRENDIMIENTO!!!
+
 ```sh
 npm create astro@latest -- --template minimal
 ```
